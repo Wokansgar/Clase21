@@ -1,0 +1,8 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+}
+
+#linkColor {
+    color: orange;
+    text-emphasis-color: orange;
+}
